@@ -1,0 +1,5 @@
+
+1)Design an Android app that generates a random password of a specified length (e.g., 8 characters) and displays
+ it when a button is clicked. Include uppercase letters, lowercase letters, Symbols and numbers in the password.
+
+2)Final Value, if the Principal amount in INR, annual interest rate, and time period in years is given as input  by the user.  
